@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <h1>Olá, eu sou o Ronaldo 👋</h1>
 
-<!--
-**ronaldotavcano/ronaldotavcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="350" alt="Hello World Laptop">
 
-Here are some ideas to get you started:
+  <p><b></b></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Contador de visitantes -->
+  <img src="https://profile-counter.glitch.me/ronaldotavcano/count.svg" alt="Contador de Visitantes" />
+</div>
+
+<br />
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldotavcano&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldotavcano&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" />
+</div>
+
+<br />
+
+## 👨‍💻 Sobre Mim
+
+- 🎓 Estudante do 2º ano de Ciências da Computação na UNIMAR.
+- 💻 Tenho experiência no desenvolvimento de interfaces com **React, Next.js e Tailwind CSS**.
+- 📚 Atualmente a aprofundar conhecimentos em **PHP (arquitetura MVC e PDO), linguagem C e desenvolvimento em ambiente Linux (Fedora)**.
+- 🚀 Em transição da área de suporte técnico para o desenvolvimento de software.
+- 📝 Organizo os meus estudos, algoritmos e base de conhecimento utilizando o Obsidian.
